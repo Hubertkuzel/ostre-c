@@ -1,0 +1,5 @@
+/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/Debug/net8.0/MyTerminalApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/Debug/net8.0/MyTerminalApp.AssemblyInfoInputs.cache
+/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/Debug/net8.0/MyTerminalApp.AssemblyInfo.cs
+/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/Debug/net8.0/MyTerminalApp.csproj.CoreCompileInputs.cache
+/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/Debug/net8.0/MyTerminalApp.sourcelink.json

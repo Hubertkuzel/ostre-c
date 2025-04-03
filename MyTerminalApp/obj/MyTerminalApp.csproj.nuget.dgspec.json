@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hubert\\ostre-c\\MyTerminalApp\\MyTerminalApp.csproj": {}
+    "/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/MyTerminalApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hubert\\ostre-c\\MyTerminalApp\\MyTerminalApp.csproj": {
+    "/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/MyTerminalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hubert\\ostre-c\\MyTerminalApp\\MyTerminalApp.csproj",
+        "projectUniqueName": "/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/MyTerminalApp.csproj",
         "projectName": "MyTerminalApp",
-        "projectPath": "C:\\Users\\Hubert\\ostre-c\\MyTerminalApp\\MyTerminalApp.csproj",
-        "packagesPath": "C:\\Users\\Hubert\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hubert\\ostre-c\\MyTerminalApp\\obj\\",
+        "projectPath": "/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/MyTerminalApp.csproj",
+        "packagesPath": "/home/gerard/.nuget/packages/",
+        "outputPath": "/home/gerard/RiderProjects/ProjektCsharp1/MyTerminalApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/gerard/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
