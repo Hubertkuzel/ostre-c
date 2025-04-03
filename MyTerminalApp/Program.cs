@@ -1,4 +1,5 @@
 ﻿using System;
+// list<Student> Student = new List<Student>() Lista;
 
 class Student
 {
