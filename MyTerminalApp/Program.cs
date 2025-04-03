@@ -1,7 +1,5 @@
 ﻿using System;
 
-<Student>list = new <Student>list lista;
-
 class Student
 {
     public string imie {get; set;}
