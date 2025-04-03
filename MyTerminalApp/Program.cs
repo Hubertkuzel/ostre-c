@@ -5,9 +5,9 @@ class Student
 {
     public string imie {get; set;}
     static string nazwisko {get; set;}
-    private static int GradeAvg { get; set; }
+    private static double GradeAvg { get; set; }
 
-    public Student(string imie, string nazwisko, int Avg){
+    public Student(string imie, string nazwisko, double Avg){
         imie = imie;
         nazwisko = nazwisko;
         GradeAvg = Avg;
@@ -29,6 +29,13 @@ class Program
             switch (decision)
             {
                 case 1:
+                    Console.WriteLine("Podaj imie, nazwisko i średnią ocen");
+                    string name = Console.ReadLine();
+                    string nazwisko = Console.ReadLine();
+                    double Avg = double.Parse(Console.ReadLine());
+
+                    Student student = new Student(name, nazwisko, Avg);
+                    Studenci.Add(student);
                     
                     break;
                 case 2:
