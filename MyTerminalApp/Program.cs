@@ -1,6 +1,8 @@
 ﻿using System;
-class Student 
-<student>list = new <student>list lista
+
+<Student>list = new <Student>list lista;
+
+class Student
 {
     public string imie {get; set;}
     static string nazwisko {get; set;}
@@ -15,7 +17,11 @@ class Program
 {
     static void Main()
     {
+        List<Student> Studenci = new List<Student>();
+        
+
+        
     }
     
 }
-List<student> Studenci = new List<student>();
+
