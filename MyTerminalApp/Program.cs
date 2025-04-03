@@ -1,6 +1,5 @@
 ﻿using System;
-
-<Student>list = new <Student>list lista;
+// list<Student> Student = new List<Student>() Lista;
 
 class Student
 {
