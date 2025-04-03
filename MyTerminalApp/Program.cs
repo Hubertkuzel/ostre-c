@@ -17,9 +17,18 @@ class Program
     static void Main()
     {
         List<Student> Studenci = new List<Student>();
-        
 
-        
+
+        bool running = true;
+        int decision = int.Parse(Console.ReadLine());
+        while (running)
+        {
+            switch (decision)
+            {
+                case 1:
+                    break;
+            }
+        }
     }
     
 }
